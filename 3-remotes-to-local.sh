@@ -9,3 +9,4 @@ do
         git branch -D -r $b
     fi
 done
+

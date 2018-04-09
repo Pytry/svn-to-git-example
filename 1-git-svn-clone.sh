@@ -11,3 +11,4 @@ git svn clone \
     --authors-file=/home/bob/Development/svn-to-git-example/trunk/authors.txt
 cd ./target/svn-to-git-example
 sudo chmod +x *.sh
+echo "Please change directories to './target/svn-to-git-example' before executing step 2".
