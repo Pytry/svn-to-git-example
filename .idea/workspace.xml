@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/README.md" line="0" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="3d59c62b-077d-4dc2-9e24-c3a8ba66447a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/remotes-to-local.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove-trunk.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set-git-remote.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags-to-git.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,11 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="set-git-remote.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="set-git-remote.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/set-git-remote.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="3" selection-start-column="3" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -114,6 +126,7 @@
         <option value="$PROJECT_DIR$/remotes-to-local.sh" />
         <option value="$PROJECT_DIR$/remove-trunk.sh" />
         <option value="$PROJECT_DIR$/set-git-remote.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -124,8 +137,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="268" />
-    <option name="y" value="50" />
+    <option name="x" value="221" />
+    <option name="y" value="58" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -229,7 +242,7 @@
       <updated>1523207072861</updated>
       <workItem from="1523207074372" duration="746000" />
       <workItem from="1523208305639" duration="889000" />
-      <workItem from="1523219349128" duration="3174000" />
+      <workItem from="1523219349128" duration="3531000" />
     </task>
     <task id="LOCAL-00001">
       <created>1523208331410</created>
@@ -266,14 +279,21 @@
       <option name="project" value="LOCAL" />
       <updated>1523234885040</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added push to GitHub">
+      <created>1523235495164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1523235495164</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4809000" />
+    <option name="totallyTimeSpent" value="5166000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="268" y="50" width="1400" height="1000" extended-state="0" />
+    <frame x="221" y="58" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -317,7 +337,8 @@
     <MESSAGE value="erasing comment" />
     <MESSAGE value="Added scripts for migration and author conversion" />
     <MESSAGE value="Added comment for target git repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added comment for target git repo" />
+    <MESSAGE value="Added push to GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added push to GitHub" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Whatever.java">
@@ -389,7 +410,17 @@
     <entry file="file://$PROJECT_DIR$/set-git-remote.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
