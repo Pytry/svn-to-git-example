@@ -1,0 +1,2 @@
+bob = Bob Bob <bob@bob.bob>
+(no author) = NO AUTHOR <no.author@bob.bob>
