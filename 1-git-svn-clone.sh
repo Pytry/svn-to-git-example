@@ -9,3 +9,4 @@ git svn clone \
     -b branches \
     -t tags \
     --authors-file=/home/bob/Development/svn-to-git-example/trunk/authors.txt
+cd ./target/svn-to-git-example

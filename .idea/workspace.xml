@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="3d59c62b-077d-4dc2-9e24-c3a8ba66447a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/examples" afterDir="true" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="true" afterPath="$PROJECT_DIR$" afterDir="true" />
-      <change beforePath="$PROJECT_DIR$/.idea/svn-to-git-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/svn-to-git-example.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/authors.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-svn-clone.sh" beforeDir="false" afterPath="$PROJECT_DIR$/1-git-svn-clone.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-authors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/examples/list-authors.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/make-tag.sh" beforeDir="false" afterPath="$PROJECT_DIR$/examples/make-tag.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remotes-to-local.sh" beforeDir="false" afterPath="$PROJECT_DIR$/3-remotes-to-local.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remove-trunk.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/set-git-remote.sh" beforeDir="false" afterPath="$PROJECT_DIR$/4-set-git-remote.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src" beforeDir="true" />
-      <change beforePath="$PROJECT_DIR$/src/main" beforeDir="true" />
-      <change beforePath="$PROJECT_DIR$/src/main/java" beforeDir="true" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Whatever.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags-to-git.sh" beforeDir="false" afterPath="$PROJECT_DIR$/2-tags-to-git.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-git-svn-clone.sh" beforeDir="false" afterPath="$PROJECT_DIR$/1-git-svn-clone.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-set-git-remote.sh" beforeDir="false" afterPath="$PROJECT_DIR$/4-set-git-remote.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/1-git-svn-clone.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -76,8 +62,8 @@
       <file leaf-file-name="4-set-git-remote.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4-set-git-remote.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+            <state relative-caret-position="165">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -143,10 +129,10 @@
         <option value="$PROJECT_DIR$/git-svn-clone.sh" />
         <option value="$PROJECT_DIR$/authors.txt" />
         <option value="$PROJECT_DIR$/remotes-to-local.sh" />
-        <option value="$PROJECT_DIR$/1-git-svn-clone.sh" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/2-tags-to-git.sh" />
         <option value="$PROJECT_DIR$/3-remotes-to-local.sh" />
+        <option value="$PROJECT_DIR$/1-git-svn-clone.sh" />
         <option value="$PROJECT_DIR$/4-set-git-remote.sh" />
       </list>
     </option>
@@ -271,7 +257,7 @@
       <updated>1523207072861</updated>
       <workItem from="1523207074372" duration="746000" />
       <workItem from="1523208305639" duration="889000" />
-      <workItem from="1523219349128" duration="12647000" />
+      <workItem from="1523219349128" duration="12847000" />
     </task>
     <task id="LOCAL-00001">
       <created>1523208331410</created>
@@ -350,11 +336,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523247099655</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated scripts for order and organized the repo layout.">
+      <created>1523250767179</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1523250767179</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14282000" />
+    <option name="totallyTimeSpent" value="14482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="221" y="58" width="1400" height="1000" extended-state="0" />
@@ -363,12 +356,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32962137" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007143" side_tool="true" visible="true" weight="0.32962137" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32962137" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928573" visible="true" weight="0.32962137" />
       <window_info anchor="right" id="Jenkins" order="3" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34214285" />
@@ -407,7 +400,8 @@
     <MESSAGE value="Updated to checkout trunk" />
     <MESSAGE value="Updating clone script" />
     <MESSAGE value="Fix tag conversion script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix tag conversion script" />
+    <MESSAGE value="Updated scripts for order and organized the repo layout." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated scripts for order and organized the repo layout." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Whatever.java">
@@ -472,13 +466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1-git-svn-clone.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2-tags-to-git.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -493,10 +480,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1-git-svn-clone.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/4-set-git-remote.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
