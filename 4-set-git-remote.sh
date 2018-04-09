@@ -9,5 +9,4 @@ git push origin --all
 echo "Pushing Tags"
 git push origin --tags
 
-cd ../../
 echo "DONE"
