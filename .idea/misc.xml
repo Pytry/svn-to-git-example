@@ -12,10 +12,10 @@
             <SvnBranchConfiguration>
               <option name="branchUrls">
                 <list>
-                  <option value="svn://localhost/home/bob/vcs-repos/svn-repo" />
+                  <option value="svn://localhost/home/bob/vcs-repos/svn-repos/svn-to-git-example/branches" />
                 </list>
               </option>
-              <option name="trunkUrl" value="svn://localhost/home/bob/vcs-repos/svn-repo/svn-to-git-example" />
+              <option name="trunkUrl" value="svn://localhost/home/bob/vcs-repos/svn-repos/svn-to-git-example/trunk" />
             </SvnBranchConfiguration>
           </value>
         </entry>
